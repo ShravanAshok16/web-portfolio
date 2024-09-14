@@ -15,9 +15,9 @@ function Footer() {
             © Developer Portfolio by{' '}
             <Link
               target="_blank"
-              href="https://www.linkedin.com/in/abu-said-bd/"
+              href="https://www.linkedin.com/in/shravan-a-473228146/"
               className="text-[#16f2b3]"
-              aria-label="Abu Said LinkedIn Profile"
+              aria-label="Shravan Ashok LinkedIn Profile"
             >
               Shravan Ashok
             </Link>
@@ -25,7 +25,7 @@ function Footer() {
           <div className="flex items-center gap-5">
             <Link
               target="_blank"
-              href="https://github.com/said7388/developer-portfolio"
+              href="https://github.com/ShravanAshok16/web-portfolio/tree/master"
               className="flex items-center gap-2 uppercase hover:text-[#16f2b3]"
               aria-label="Star on GitHub"
             >
@@ -34,7 +34,7 @@ function Footer() {
             </Link>
             <Link
               target="_blank"
-              href="https://github.com/said7388/developer-portfolio/fork"
+              href="https://github.com/ShravanAshok16/web-portfolio/forks"
               className="flex items-center gap-2 uppercase hover:text-[#16f2b3]"
               aria-label="Fork on GitHub"
             >
